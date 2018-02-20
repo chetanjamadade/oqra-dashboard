@@ -1,0 +1,171 @@
+/*=====================================
+=            Top Bar Login            =
+=====================================*/
+
+#login-top-bar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background:palette(blue,dark);
+	text-align: center;
+	a {
+		display: inline-block;
+		&:hover {
+			opacity: 0.6;
+		}
+	}
+}
+
+/*=====  End of Top Bar Login  ======*/
+
+/*==================================
+=            Login Page            =
+==================================*/
+
+.login-page {
+	background:palette(blue,light);
+	/* header with heading s*/
+	header {
+		padding-top: 50px;
+		padding-bottom: 50px;
+		text-align: center;
+		h1 {
+			color:$color-heading;
+			font-weight: $semi-bold;
+			font-size: 26px;
+			@include breakpoint(phone-xs) {
+				font-size: 22px;
+			}
+		}
+		p {
+			color: $color-subheading;
+			font-weight: $regular;
+			font-size: 16px;
+			@include breakpoint(phone-xs) {
+				font-size: 14px;
+			}
+		}
+	}	
+}
+
+/*=====  End of Login Page  ======*/
+
+/*=====================================
+=            Login Content            =
+=====================================*/
+
+div#login-content {
+	max-width:380px;
+	margin:0px auto;
+	@include breakpoint(phone-xs) {
+		max-width: 300px;
+	}
+	/* login box */
+	.login-box {
+		padding:15px 30px 35px 30px;
+		background:$color-white;
+		border-radius:4px;
+		@include breakpoint(phone-xs) {
+			padding:15px 20px 35px 20px;
+		}
+		label {
+			display: block;
+			margin-top: 20px;
+			margin-bottom: 10px;
+			color:$color-heading;
+			span {
+				font: {
+					size:14px;
+					weight:400;
+				}
+				position: relative;
+				top:-3px;				
+			}
+		}
+		input[type="text"], input[type="email"], input[type="password"] {
+			display: block;
+			width: 100%;
+			border:none;
+			background:palette(blue,light);
+			height: 45px;
+			line-height: 45px;
+			padding-left: 20px;
+			padding-right: 20px;
+			border-radius:6px;
+			&:focus {
+				outline: 0;
+			}
+		}
+		input[type="submit"] {
+			background:palette(blue);
+			text-align: center;
+			color:$color-white;
+			border-radius:6px;
+			height: 43px;
+			line-height: 43px;
+			border:none;
+			margin:0px auto;
+			display: block;
+			margin-top: 30px;
+			width: 200px;
+			background-position: 85% center;
+			@include animate-fade;
+			&:hover {
+				background:url(../img/ico/login-arrow.png) no-repeat 90% center;
+				background-color:darken($color-blie,10%);
+			}
+		}
+	}
+	/* info alert */
+	.info-alert-box {
+		background:#e5f1ff;
+		border:1px solid #d9e9fb;
+		padding:10px;
+		p {
+			font-size: 14px;
+		}
+	}
+	/* forgot box */
+	.login-forgot-box {
+		padding-top: 25px;
+		padding-left: 15px;
+		a {
+			position: relative;
+			display: block;
+			padding-left: 12px;
+			color:$color-heading;
+			&:hover {
+				color:#4481c3;
+			}
+			&:before {
+				content: "\f105";
+				@include font-ico;
+				font-weight: bold;
+				left:0px;
+				color:#4481c3;
+			}
+		}
+	}
+	/* back to login box */
+	.back-login-box {
+		padding-top: 25px;
+		padding-left: 15px;
+		a {
+			position: relative;
+			display: block;
+			padding-left: 12px;
+			color:$color-heading;
+			&:hover {
+				color:#4481c3;
+			}
+			&:before {
+				content: "\f104";
+				@include font-ico;
+				font-weight: bold;
+				left:0px;
+				color:#4481c3;
+			}
+		}
+	}	
+}
+
+/*=====  End of Login Content  ======*/

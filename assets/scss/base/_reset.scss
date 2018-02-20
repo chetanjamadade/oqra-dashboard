@@ -1,0 +1,106 @@
+/*=============================
+=            Reset            =
+=============================*/
+
+p {
+	padding: 0px;
+	margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0px;
+	margin: 0px;
+}
+
+a {
+	@include animate-fade;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+ul, ol {
+	padding: 0;
+	margin: 0;
+	list-style:none;
+}
+
+.remove-pad {
+	padding: 0px!important;
+}
+
+.no-bg {
+	background:none!important;
+}
+
+#navbar {
+	padding: 0px;
+	border:none;
+	background:none!important
+}
+
+.navbar-default {
+	border:none;
+	margin-bottom: 0px !important;
+	background:none!important;
+	background-color:none!important;
+}
+
+input[type="text"], input[type="date"], input[type="email"], input[type="tel"], select {
+	&:focus {
+		outline: 0!important;
+	}
+}
+
+/*-----  End of Reset  ------*/
+
+/*=====================================
+=            Global Styles            =
+=====================================*/
+
+body {
+	font-family: $font-main;
+}
+
+.no-pad-right {
+	padding-right: 0px!important;
+	@include breakpoint(phone) {
+		padding-right: 15px !important;
+	}
+}
+
+.no-pad-left {
+	padding-left: 0px !important;
+	@include breakpoint(phone) {
+		padding-left: 15px !important;
+	}
+}
+
+.no-tablet-pad-right {
+	@include breakpoint(tablet) {
+		padding-right: 0px !important;
+	}
+}
+
+.no-tablet-pad-left {
+	@include breakpoint(tablet) {
+		padding-left: 0px !important;
+	}
+}
+
+/*-----  End of Global Styles  ------*/
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+	@include breakpoint(desktop) {
+		display:block;
+	}
+	@include breakpoint(laptop) {
+		display:block;
+	}
+}
+
+
+.no-pad-left {
+	padding-left: 0px;
+}

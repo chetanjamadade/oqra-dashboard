@@ -1,0 +1,136 @@
+/*==================================
+=            Filter Box            =
+==================================*/
+
+#filter-box {
+	background:$color-white;
+	padding-bottom: 60px;
+	border-radius:9px;
+	@include light-box-shadow;	
+	header {
+		background: palette(blue);
+		height: 50px;
+		border-top-left-radius: 9px;
+		border-top-right-radius: 9px;		
+		h4 {
+			color:$color-white;
+			font-size: 20px;
+			line-height: 50px;
+			font-weight: $regular;
+			margin-left: 20px;
+			@include light-shadow;
+			i {
+				margin-right: 7px;
+			}
+			strong {
+				font-weight: $bold;
+			}
+		}
+	}
+	/* filter content */
+	.filter-content {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 30px;
+		text-align: center;
+		@include breakpoint(desktop) {
+			padding-left: 20px;
+			padding-right: 20px;
+		}
+		.bootstrap-select {
+			width: 100%;
+			max-width:200px;
+			margin-bottom: 10px;
+			.btn-default {
+				border:1px solid #d9dee1;
+				border-radius:9px;
+				padding-left: 10px;
+				font-size: 14px;
+				color:#97989a;
+				@include input-grad;	
+				height: 40px;
+				box-shadow:none;
+				&:focus {
+					outline: 0!important;
+				}			
+			}
+		}
+		input[type="date"] {
+			width: 100%;
+			max-width:200px;
+			border:1px solid #d9dee1;
+			border-radius:9px;
+			height: 40px;
+			line-height: 40px;
+			padding-left: 10px;
+			font-size: 14px;
+			color:#97989a;
+			@include input-grad;
+		}
+		input[type="submit"] {
+			background:#437fbf;
+			margin-top: 20px;
+			color:$color-white;
+			height: 50px;
+			line-height: 50px;
+			text-align: center;
+			width: 100%;
+			max-width: 200px;
+			border:none;
+			border-radius:9px;
+			font-size: 16px;
+			font-weight: $semi-bold;
+			@include animate-fade;
+			&:hover {
+				background:$color-orange-dark;
+			}
+		}
+	}
+}
+
+/*=====  End of Filter Box  ======*/
+
+/*=======================================
+=            Sidebar Actions            =
+=======================================*/
+
+#sidebar-actions {
+	.result-num {
+		font-size: 36px;
+		color:$color-white;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		border-radius:9px;
+		background:$color-green;
+		display: block;
+		max-width: 300px;
+		text-align: center;
+		font-weight: $regular;
+		margin-bottom: 15px;
+	}
+	.add-new-btn {
+		font-size: 24px;
+		color:$color-white;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		border-radius:9px;
+		background:#417cbc;
+		display: block;
+		max-width: 300px;
+		text-align: center;
+		font-weight: $regular;
+		margin-bottom: 15px;
+		i {
+			margin-right: 10px;
+		}
+		&:hover {
+			background:$color-orange-dark;
+		}
+	}
+	#filter-box {
+		max-width: 300px!important;
+		margin-bottom: 25px;
+	}
+}
+
+/*=====  End of Sidebar Actions  ======*/

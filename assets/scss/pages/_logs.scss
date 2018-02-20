@@ -1,0 +1,29 @@
+/*====================================
+=            Logs Content            =
+====================================*/
+
+#logs-content {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 35px;
+	padding-left: 35px;	
+	/* logs data */
+	#logs-data {
+		table {
+			@include general-table;
+			.action-view-btn {
+				@include action-btn;
+				background: palette(blue);
+				&:hover {
+					background:$color-orange-dark;
+				}
+			}
+		}
+	}
+	/* logs sidebar */
+	#logs-actions {
+
+	}
+}
+
+/*=====  End of Logs Content  ======*/

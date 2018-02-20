@@ -1,0 +1,306 @@
+DEBUG 09/09/2016 11:16:55 : User id: 2 submitted text review at 2016-09-09 11:16:55
+DEBUG 09/09/2016 11:16:55 : Sending written review for 5 stars - Location: 16
+DEBUG 09/09/2016 11:16:55 : Sent review (for customer/patient) email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 09/09/2016 11:16:55 : Sent review email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 09/09/2016 11:16:58 : Prepare social SMS for (210) 913-9233
+DEBUG 09/09/2016 11:16:58 : Text social review for (210) 913-9233
+DEBUG 09/09/2016 11:16:58 : Send social sms is true for (210) 913-9233
+DEBUG 09/09/2016 11:16:58 : Thanks for your review. Please copy your review: Test review And paste it on Google Plus link: https://www.facebook.com/alings
+DEBUG 09/09/2016 11:16:59 : Sent social SMS to 12109139233 Link: https://www.facebook.com/alings Text: Test review SID SM13554696eda14ef6af2086c195932162
+DEBUG 12/09/2016 09:16:17 : User id: 47968 submitted text review at 2016-09-12 09:16:17
+DEBUG 12/09/2016 09:16:17 : Sending written review for 4 stars - Location: 16
+DEBUG 12/09/2016 09:16:17 : Sent review (for customer/patient) email to djdzoni@msn.com for stars 4 - Location Id: 16
+DEBUG 12/09/2016 09:16:17 : Sent review email to nikola.fh@gmail.com for stars 4 - Location Id: 16
+DEBUG 12/09/2016 09:18:50 : User id: 47968 submitted text review at 2016-09-12 09:18:50
+DEBUG 12/09/2016 09:18:50 : Sending written review for 2 stars - Location: 16
+DEBUG 12/09/2016 09:18:50 : Sent review email to nikola.fh@gmail.com for stars 2 - Location Id: 16 Sent from email: 
+DEBUG 12/09/2016 09:21:29 : User id: 47968 submitted text review at 2016-09-12 09:21:29
+DEBUG 12/09/2016 09:21:29 : Sending written review for 5 stars - Location: 16
+DEBUG 12/09/2016 09:21:29 : Sent review (for customer/patient) email to djdzoni@msn.com for stars 5 - Location Id: 16
+DEBUG 12/09/2016 09:21:29 : Sent review email to nikola.fh@gmail.com for stars 5 - Location Id: 16
+DEBUG 12/09/2016 09:21:39 : Prepare social SMS for (064) 387-6874
+DEBUG 12/09/2016 09:21:39 : Text social review for (064) 387-6874
+DEBUG 12/09/2016 09:21:39 : Send social sms is true for (064) 387-6874
+DEBUG 12/09/2016 09:21:39 : Thanks for your review. Please copy your review: The best service ever :) :) And paste it on Google Plus link: https://www.facebook.com/alings
+DEBUG 13/09/2016 07:28:30 : User id: 47968 submitted text review at 2016-09-13 07:28:30
+DEBUG 13/09/2016 07:28:30 : Sending written review for 4 stars - Location: 16
+DEBUG 13/09/2016 07:28:30 : Sent review (for customer/patient) email to djdzoni@msn.com for stars 4 - Location Id: 16
+DEBUG 13/09/2016 07:28:30 : Sent review email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 13/09/2016 07:28:50 : Prepare social SMS for (064) 387-6874
+DEBUG 13/09/2016 07:28:50 : Text social review for (064) 387-6874
+DEBUG 13/09/2016 07:28:50 : Send social sms is true for (064) 387-6874
+DEBUG 13/09/2016 07:28:51 : Thanks for your review. Please copy your review: Great experience :) And paste it on Google Plus link: https://www.facebook.com/alings
+DEBUG 13/09/2016 07:32:30 : User id: 47968 submitted text review at 2016-09-13 07:32:30
+DEBUG 13/09/2016 07:32:30 : Sending written review for 5 stars - Location: 16
+DEBUG 13/09/2016 07:32:30 : Sent review (for customer/patient) email to djdzoni@msn.com for stars 5 - Location Id: 16
+DEBUG 13/09/2016 07:32:30 : Sent review email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 13/09/2016 07:36:36 : User id: 47968 submitted text review at 2016-09-13 07:36:36
+DEBUG 13/09/2016 07:36:36 : Sending written review for 5 stars - Location: 16
+DEBUG 13/09/2016 07:36:36 : Sent review (for customer/patient) email to djdzoni@msn.com for stars 5 - Location Id: 16
+DEBUG 13/09/2016 07:36:36 : Sent review email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 13/09/2016 07:39:57 : User id: 47968 submitted text review at 2016-09-13 07:39:57
+DEBUG 13/09/2016 07:39:57 : Sending written review for 5 stars - Location: 16
+DEBUG 13/09/2016 07:39:57 : Sent review (for customer/patient) email to djdzoni@msn.com for stars 5 - Location Id: 16
+DEBUG 13/09/2016 07:39:57 : Sent review email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 13/09/2016 07:42:54 : User id: 47985 submitted text review at 2016-09-13 07:42:54
+DEBUG 13/09/2016 07:42:54 : Sending written review for 3 stars - Location: 16
+DEBUG 13/09/2016 07:42:54 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 14/09/2016 08:05:04 : User id: 2 submitted text review at 2016-09-14 08:05:04
+DEBUG 14/09/2016 08:05:04 : Sending written review for 5 stars - Location: 16
+DEBUG 14/09/2016 08:05:05 : Sent review (for customer/patient) email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 14/09/2016 08:05:05 : Sent review email to modche@gmail.com for stars 5 - Location Id: 16
+DEBUG 14/09/2016 08:05:11 : Prepare social SMS for (210) 913-9233
+DEBUG 14/09/2016 08:05:11 : Text social review for (210) 913-9233
+DEBUG 14/09/2016 08:05:11 : Send social sms is true for (210) 913-9233
+DEBUG 14/09/2016 08:05:11 : Thanks for your review. Please copy your review: Test And paste it on Google Plus link: https://www.facebook.com/alings
+DEBUG 14/09/2016 08:05:11 : Sent social SMS to 12109139233 Link: https://www.facebook.com/alings Text: Test SID SMb15853e5fc724a038b07366c930a6f9d
+DEBUG 14/09/2016 15:50:48 : User id: 48012 submitted text review at 2016-09-14 15:50:48
+DEBUG 14/09/2016 15:50:48 : Sending written review for 1 stars - Location: 16
+DEBUG 14/09/2016 15:50:48 : Sent review email to ajay@dmsapiens.com for stars 1 - Location Id: 16 Sent from email: 
+DEBUG 14/09/2016 15:50:48 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 14/09/2016 15:54:34 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 14/09/2016 15:56:18 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 08:16:48 : User id: 48012 submitted text review at 2016-09-15 08:16:48
+DEBUG 15/09/2016 08:16:48 : Sending written review for 1 stars - Location: 16
+DEBUG 15/09/2016 08:16:48 : Sent review email to ajay@dmsapiens.com for stars 1 - Location Id: 16 Sent from email: 
+DEBUG 15/09/2016 08:16:48 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 08:18:57 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 08:18:58 : Prepare SMS for (210) 316-7379
+DEBUG 15/09/2016 08:18:58 : Send sms is true for (210) 316-7379
+DEBUG 15/09/2016 08:18:58 : Sent SMS to 12103167379 Link: http://bit.ly/2cAnhTI Text: http://dashboard.1qreputation.com/uploads/381bb508-f373-4d60-8451-c45705a3408d.m4a SID SM6ec9fa4043bf4b9bb84f73d031d49044
+DEBUG 15/09/2016 08:25:53 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 08:25:54 : Prepare SMS for (210) 316-7379
+DEBUG 15/09/2016 08:25:54 : Send sms is true for (210) 316-7379
+DEBUG 15/09/2016 08:25:55 : Sent SMS to 12103167379 Link: http://bit.ly/2cAnhTI Text: http://dashboard.1qreputation.com/uploads/VID_20160915_092540.mp4 SID SMf1eb3412dc3049b18b37293b7acfd1f5
+DEBUG 15/09/2016 08:41:56 : User id: 48012 submitted text review at 2016-09-15 08:41:56
+DEBUG 15/09/2016 08:41:56 : Sending written review for 1 stars - Location: 16
+DEBUG 15/09/2016 08:41:56 : Sent review email to ajay@dmsapiens.com for stars 1 - Location Id: 16 Sent from email: 
+DEBUG 15/09/2016 08:41:56 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 08:41:57 : Sent textual message to mms / sms 2108729908@tmomail.net
+DEBUG 15/09/2016 10:49:39 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 10:49:40 : Sent textual message to mms / sms  2108729908@tmomail.net
+DEBUG 15/09/2016 10:49:40 : Prepare SMS for (210) 872-9908
+DEBUG 15/09/2016 10:49:40 : Send sms is true for (210) 872-9908
+DEBUG 15/09/2016 10:49:41 : Sent SMS to 12108729908 Link: http://bit.ly/2cAnhTI Text: http://dashboard.1qreputation.com/uploads/a83a9787-d6a7-4a79-aee6-ad083e9457c9.m4a SID SMea1ba2bec53c4828b3ea8bdf4461ed7a
+DEBUG 15/09/2016 10:49:46 : Prepare social SMS for (210) 872-9908
+DEBUG 15/09/2016 10:49:46 : Send social sms is true for (210) 872-9908
+DEBUG 15/09/2016 10:49:46 : Thanks for your review. Please copy your review: http://dashboard.1qreputation.com/uploads/a83a9787-d6a7-4a79-aee6-ad083e9457c9.m4a And paste it on Google Plus link: https://www.facebook.com/alings/reviews
+DEBUG 15/09/2016 10:49:46 : Sent social SMS to 12108729908 Link: https://www.facebook.com/alings/reviews Text: http://dashboard.1qreputation.com/uploads/a83a9787-d6a7-4a79-aee6-ad083e9457c9.m4a SID SM42b83c04a8c94d77b3979aafc493e930
+DEBUG 15/09/2016 10:51:20 : Prepare social SMS for (210) 872-9908
+DEBUG 15/09/2016 10:51:20 : Send social sms is true for (210) 872-9908
+DEBUG 15/09/2016 10:51:20 : Thanks for your review. Please copy your review: http://dashboard.1qreputation.com/uploads/a83a9787-d6a7-4a79-aee6-ad083e9457c9.m4a And paste it on Google Plus link: http://www.yelp.com/biz/alings-sugar-land
+DEBUG 15/09/2016 10:51:21 : Sent social SMS to 12108729908 Link: http://www.yelp.com/biz/alings-sugar-land Text: http://dashboard.1qreputation.com/uploads/a83a9787-d6a7-4a79-aee6-ad083e9457c9.m4a SID SMb0bab5c0994f43a0bb247f0b18506555
+DEBUG 15/09/2016 16:20:00 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 16:20:00 : Sent textual message to mms / sms  2108729908@tmomail.net
+DEBUG 15/09/2016 16:20:01 : Prepare SMS for (210) 913-9233
+DEBUG 15/09/2016 16:20:01 : Send sms is true for (210) 913-9233
+DEBUG 15/09/2016 16:20:02 : Sent SMS to 12109139233 Link: http://bit.ly/2cAnhTI Text: http://dashboard.1qreputation.com/uploads/da46c301-7e55-465c-9e51-e8530656f9b9.m4a SID SMbd9ae7279be54869a743d55f21714aa3
+DEBUG 15/09/2016 16:20:05 : Prepare social SMS for (210) 913-9233
+DEBUG 15/09/2016 16:20:05 : Send social sms is true for (210) 913-9233
+DEBUG 15/09/2016 16:20:05 : Thanks for your review. Please copy your review: http://dashboard.1qreputation.com/uploads/da46c301-7e55-465c-9e51-e8530656f9b9.m4a And paste it on Google Plus link: https://www.facebook.com/alings/reviews
+DEBUG 15/09/2016 16:20:05 : Sent social SMS to 12109139233 Link: https://www.facebook.com/alings/reviews Text: http://dashboard.1qreputation.com/uploads/da46c301-7e55-465c-9e51-e8530656f9b9.m4a SID SM29ab9396ee784fe99ae4029fcb37f526
+DEBUG 15/09/2016 16:21:41 : Sent textual message to mms / sms 3616558550@txt.att.net
+DEBUG 15/09/2016 16:21:41 : Sent textual message to mms / sms  2108729908@tmomail.net
+DEBUG 15/09/2016 16:21:41 : Prepare SMS for (210) 913-9233
+DEBUG 15/09/2016 16:21:41 : Send sms is true for (210) 913-9233
+DEBUG 15/09/2016 16:21:42 : Sent SMS to 12109139233 Link: http://bit.ly/2cAnhTI Text: http://dashboard.1qreputation.com/uploads/ec651841-bc27-41a5-a318-b9117b5a2ec5.m4a SID SM6a1fcb804a824398b8db39e832cb8bec
+DEBUG 15/09/2016 16:21:47 : Prepare social SMS for (210) 913-9233
+DEBUG 15/09/2016 16:21:47 : Send social sms is true for (210) 913-9233
+DEBUG 15/09/2016 16:21:47 : Thanks for your review. Please copy your review: http://dashboard.1qreputation.com/uploads/ec651841-bc27-41a5-a318-b9117b5a2ec5.m4a And paste it on Google Plus link: http://www.yelp.com/biz/alings-sugar-land
+DEBUG 15/09/2016 16:21:48 : Sent social SMS to 12109139233 Link: http://www.yelp.com/biz/alings-sugar-land Text: http://dashboard.1qreputation.com/uploads/ec651841-bc27-41a5-a318-b9117b5a2ec5.m4a SID SM91045a010d1641d48e73bfdefbed4ca9
+DEBUG 17/09/2016 12:07:44 : User id: 48058 submitted text review at 2016-09-17 12:07:44
+DEBUG 17/09/2016 12:07:44 : Sending written review for 5 stars - Location: 16
+DEBUG 17/09/2016 12:07:44 : Sent review (for customer/patient) email to kj.tikorn@hotmail.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:07:44 : Sent review email to regaljewelers@msn.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:07:44 : Prepare SMS for (832) 499-3711
+DEBUG 17/09/2016 12:07:44 : Text review for (832) 499-3711
+DEBUG 17/09/2016 12:07:44 : Send sms is true for (832) 499-3711
+DEBUG 17/09/2016 12:07:45 : Sent SMS to 18324993711 Link: http://bit.ly/alignsgoogle Text: Yayyy SID SMc3aea4c3a09749239df3466128d0f676
+DEBUG 17/09/2016 12:12:55 : User id: 48058 submitted text review at 2016-09-17 12:12:55
+DEBUG 17/09/2016 12:12:55 : Sending written review for 5 stars - Location: 16
+DEBUG 17/09/2016 12:12:55 : Sent review (for customer/patient) email to kj.tikorn@hotmail.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:12:55 : Sent review email to regaljewelers@msn.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:12:56 : Prepare SMS for (832) 499-3711
+DEBUG 17/09/2016 12:12:56 : Text review for (832) 499-3711
+DEBUG 17/09/2016 12:12:56 : Send sms is true for (832) 499-3711
+DEBUG 17/09/2016 12:12:56 : Sent SMS to 18324993711 Link: http://bit.ly/alignsgoogle Text: Hehhhy SID SM6448d5eae6f04bc4a963d549797c894d
+DEBUG 17/09/2016 12:13:21 : User id: 48058 submitted text review at 2016-09-17 12:13:21
+DEBUG 17/09/2016 12:13:21 : Sending written review for 1 stars - Location: 16
+DEBUG 17/09/2016 12:13:21 : Sent review email to regaljewelers@msn.com for stars 1 - Location Id: 16 Sent from email: 
+DEBUG 17/09/2016 12:13:21 : Sent textual message to mms / sms 8328379010@tmomail.net
+DEBUG 17/09/2016 12:16:35 : User id: 48058 submitted text review at 2016-09-17 12:16:35
+DEBUG 17/09/2016 12:16:35 : Sending written review for 1 stars - Location: 16
+DEBUG 17/09/2016 12:16:35 : Sent review email to regaljewelers@msn.com for stars 1 - Location Id: 16 Sent from email: 
+DEBUG 17/09/2016 12:16:35 : Sent textual message to mms / sms 8328379010@tmomail.net
+DEBUG 17/09/2016 12:24:27 : User id: 48058 submitted text review at 2016-09-17 12:24:27
+DEBUG 17/09/2016 12:24:27 : Sending written review for 5 stars - Location: 16
+DEBUG 17/09/2016 12:24:27 : Sent review (for customer/patient) email to kj.tikorn@hotmail.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:24:27 : Sent review email to regaljewelers@msn.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:24:27 : Prepare SMS for (832) 499-3711
+DEBUG 17/09/2016 12:24:27 : Text review for (832) 499-3711
+DEBUG 17/09/2016 12:24:27 : Send sms is true for (832) 499-3711
+DEBUG 17/09/2016 12:24:28 : Sent SMS to 18324993711 Link: http://bit.ly/alignsG Text: Good SID SMfeb717452abb4e94849f6064a266e259
+DEBUG 17/09/2016 12:25:10 : User id: 48058 submitted text review at 2016-09-17 12:25:10
+DEBUG 17/09/2016 12:25:10 : Sending written review for 5 stars - Location: 16
+DEBUG 17/09/2016 12:25:10 : Sent review (for customer/patient) email to kj.tikorn@hotmail.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:25:10 : Sent review email to regaljewelers@msn.com for stars 5 - Location Id: 16
+DEBUG 17/09/2016 12:25:10 : Prepare SMS for (832) 499-3711
+DEBUG 17/09/2016 12:25:10 : Text review for (832) 499-3711
+DEBUG 17/09/2016 12:25:10 : Send sms is true for (832) 499-3711
+DEBUG 17/09/2016 12:25:11 : Sent SMS to 18324993711 Link: http://bit.ly/alignsG Text: Greatttttttttttt!!! SID SM8e25e1885b3a4eb88a3b40f6fe60f366
+DEBUG 17/09/2016 12:31:47 : User id: 48058 submitted text review at 2016-09-17 12:31:47
+DEBUG 17/09/2016 12:31:47 : Sending written review for 1 stars - Location: 16
+DEBUG 17/09/2016 12:31:47 : Sent textual message to mms / sms 8328379010@tmomail.net
+DEBUG 17/09/2016 12:31:47 : Sent textual message to mms / sms  2109139233@txt.att.net
+DEBUG 19/09/2016 11:25:59 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:26:00 : Sent sms to +381659840730 SID SM473037363884451aa9945120dbc94120
+DEBUG 19/09/2016 11:28:59 : User id: 2 submitted text review at 2016-09-19 11:28:59
+DEBUG 19/09/2016 11:28:59 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:28:59 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:28:59 : Sent sms to +381659840730 SID SMf06e36fe07584f27a4fdc828fcf5fcf8
+DEBUG 19/09/2016 11:28:59 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:31:17 : User id: 2 submitted text review at 2016-09-19 11:31:17
+DEBUG 19/09/2016 11:31:17 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:31:17 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:31:18 : Sent sms to +381659840730 SID SM85b81129bcdf44ad896689983c411f1d
+DEBUG 19/09/2016 11:31:18 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:31:37 : User id: 2 submitted text review at 2016-09-19 11:31:37
+DEBUG 19/09/2016 11:31:37 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:31:37 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:31:37 : Sent sms to +381659840730 SID SM7028354d04d7478dba8fef199e7a6b59
+DEBUG 19/09/2016 11:31:37 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:33:12 : User id: 2 submitted text review at 2016-09-19 11:33:12
+DEBUG 19/09/2016 11:33:12 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:33:12 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:33:13 : Sent sms to +381659840730 SID SM1a37643072ef4e178dd65093806861e1
+DEBUG 19/09/2016 11:33:13 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:34:17 : User id: 2 submitted text review at 2016-09-19 11:34:17
+DEBUG 19/09/2016 11:34:17 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:34:17 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:34:18 : Sent sms to +381659840730 SID SM53f56936b753414d8100444af0af49cf
+DEBUG 19/09/2016 11:34:18 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:38:01 : User id: 2 submitted text review at 2016-09-19 11:38:01
+DEBUG 19/09/2016 11:38:01 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:38:01 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:38:01 : Sent sms to +381659840730 SID SMb5beb66ffa444f358bf67749eda3489c
+DEBUG 19/09/2016 11:38:01 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:39:58 : User id: 2 submitted text review at 2016-09-19 11:39:58
+DEBUG 19/09/2016 11:39:58 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:39:58 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:39:59 : Sent sms to +381659840730 SID SM98e41a616690434abbcbb101a0897efa
+DEBUG 19/09/2016 11:39:59 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:40:33 : User id: 2 submitted text review at 2016-09-19 11:40:33
+DEBUG 19/09/2016 11:40:33 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:40:33 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:40:33 : Sent sms to +381659840730 SID SM883809d4b9f14ebfb618ffd72225e320
+DEBUG 19/09/2016 11:40:33 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:41:21 : Jdmfkf\nFfff
+DEBUG 19/09/2016 11:42:19 : Djdjjdd\nDdfff
+DEBUG 19/09/2016 11:42:19 : Djdjjdd\nDdfff
+DEBUG 19/09/2016 11:43:42 : Kfkfkff\nFfff
+DEBUG 19/09/2016 11:47:07 : User id: 2 submitted text review at 2016-09-19 11:47:07
+DEBUG 19/09/2016 11:47:07 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 11:47:07 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:47:08 : Sent sms to +381659840730 SID SM0c865acd40034de3ba6ea24632c23971
+DEBUG 19/09/2016 11:47:08 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 11:49:10 : User id: 2 submitted text review at 2016-09-19 11:49:10
+DEBUG 19/09/2016 11:49:10 : Sending written review for 4 stars - Location: 16
+DEBUG 19/09/2016 11:49:10 : Sending notification message to +381659840730
+DEBUG 19/09/2016 11:49:11 : Sent sms to +381659840730 SID SM1c7d8de498d24585a04fa7b31262475e
+DEBUG 19/09/2016 11:49:11 : Sent review (for customer/patient) email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 19/09/2016 11:49:11 : Sent review email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 19/09/2016 11:49:11 : Prepare SMS for (065) 984-0730
+DEBUG 19/09/2016 11:49:11 : Text review for (065) 984-0730
+DEBUG 19/09/2016 11:49:11 : Send sms is true for (065) 984-0730
+DEBUG 19/09/2016 12:01:27 : User id: 2 submitted text review at 2016-09-19 12:01:27
+DEBUG 19/09/2016 12:01:27 : Sending written review for 4 stars - Location: 16
+DEBUG 19/09/2016 12:01:27 : Sending notification message to +381659840730,+381643876874
+DEBUG 19/09/2016 12:01:28 : Sent sms to +381659840730 SID SMd0c3c2002f8647f7bb5b449e9529a6e2
+DEBUG 19/09/2016 12:01:28 : Sent sms to +381643876874 SID SM76539c1926cb4ee79cc7a9dd1f67de7d
+DEBUG 19/09/2016 12:01:29 : Sent review (for customer/patient) email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 19/09/2016 12:01:29 : Sent review email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 19/09/2016 12:01:29 : Prepare SMS for (065) 984-0730
+DEBUG 19/09/2016 12:01:29 : Text review for (065) 984-0730
+DEBUG 19/09/2016 12:01:29 : Send sms is true for (065) 984-0730
+DEBUG 19/09/2016 12:02:47 : User id: 2 submitted text review at 2016-09-19 12:02:47
+DEBUG 19/09/2016 12:02:47 : Sending written review for 4 stars - Location: 16
+DEBUG 19/09/2016 12:02:47 : Sending notification message to +381659840730,+381643876874
+DEBUG 19/09/2016 12:02:48 : Sent sms to +381659840730 SID SMcb9918213c78437494eb484608469605
+DEBUG 19/09/2016 12:02:48 : Sent sms to +381643876874 SID SMe572ea80ccf54c6da5489939c5e70604
+DEBUG 19/09/2016 12:02:48 : Sent review (for customer/patient) email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 19/09/2016 12:02:48 : Sent review email to modche@gmail.com for stars 4 - Location Id: 16
+DEBUG 19/09/2016 12:02:49 : Prepare SMS for (065) 984-0730
+DEBUG 19/09/2016 12:02:49 : Text review for (065) 984-0730
+DEBUG 19/09/2016 12:02:49 : Send sms is true for (065) 984-0730
+DEBUG 19/09/2016 12:04:11 : User id: 2 submitted text review at 2016-09-19 12:04:11
+DEBUG 19/09/2016 12:04:11 : Sending written review for 3 stars - Location: 16
+DEBUG 19/09/2016 12:04:11 : Sending notification message to +381659840730,+381643876874
+DEBUG 19/09/2016 12:04:12 : Sent sms to +381659840730 SID SM1b17c03f05304c829b73a71d38f3be96
+DEBUG 19/09/2016 12:04:12 : Sent sms to +381643876874 SID SM44205087f66c46928234e4bbb3231d4b
+DEBUG 19/09/2016 12:04:12 : Sent review email to modche@gmail.com for stars 3 - Location Id: 16 Sent from email: 
+DEBUG 19/09/2016 12:06:55 : Prepare SMS for (065) 984-0730
+DEBUG 19/09/2016 12:06:55 : Send sms is true for (065) 984-0730
+DEBUG 19/09/2016 12:09:42 : Sending notification message to +381659840730,+381643876874
+DEBUG 19/09/2016 12:09:42 : Sent sms to +381659840730 SID SMc711933d04eb4c8a90400c7001e80e61
+DEBUG 19/09/2016 12:09:43 : Sent sms to +381643876874 SID SM182172e812f74f588bb2e320ddcfe713
+DEBUG 19/09/2016 12:09:43 : Prepare SMS for (065) 984-0730
+DEBUG 19/09/2016 12:09:43 : Send sms is true for (065) 984-0730
+DEBUG 19/09/2016 12:15:27 : Sending notification message to +12109139233
+DEBUG 19/09/2016 12:15:28 : Sent sms to +12109139233 SID SM3453fd943222468eb03da70b600f9d5a
+DEBUG 19/09/2016 12:15:29 : Prepare SMS for (065) 984-0730
+DEBUG 19/09/2016 12:15:29 : Send sms is true for (065) 984-0730
+DEBUG 09/10/2016 14:17:54 : User id: 48631 submitted text review at 2016-10-09 14:17:54
+DEBUG 09/10/2016 14:17:54 : Sending written review for 4 stars - Location: 32
+DEBUG 09/10/2016 14:17:54 : Sending notification message to +381643876874
+DEBUG 09/10/2016 14:17:55 : Sent sms to +381643876874 SID SM2808c45818b64144839882863200cd73
+DEBUG 09/10/2016 14:17:55 : Sent review (for customer/patient) email to nikola.fh@gmail.com for stars 4 - Location Id: 32
+DEBUG 09/10/2016 14:17:55 : Sent review email to nikola.fh@gmail.com for stars 4 - Location Id: 32
+DEBUG 09/10/2016 14:17:55 : Prepare SMS for +381643876874
+DEBUG 09/10/2016 14:17:55 : Text review for +381643876874
+DEBUG 09/10/2016 14:17:55 : Send sms is true for +381643876874
+DEBUG 09/10/2016 14:17:56 : Sent SMS to +381643876874 Link: http://bit.ly/gunnhonda-G Text: The best car dealer in SA SID SM5230f05ac89a424880ca9004c13a5bb2
+DEBUG 09/10/2016 14:20:01 : Prepare social SMS for +381643876874
+DEBUG 09/10/2016 14:20:01 : Text social review for +381643876874
+DEBUG 09/10/2016 14:20:01 : Send social sms is true for +381643876874
+DEBUG 09/10/2016 14:20:01 : Thanks for your review. Please copy your review: The best car dealer in SA And paste it on Google Plus link: http://bit.ly/gunnhonda-fb
+DEBUG 09/10/2016 14:20:01 : Sent social SMS to +381643876874 Link: http://bit.ly/gunnhonda-fb Text: The best car dealer in SA SID SMa88bdc48e71d4f1f8769db00625c475c
+DEBUG 09/10/2016 14:20:35 : Prepare social SMS for +381643876874
+DEBUG 09/10/2016 14:20:35 : Text social review for +381643876874
+DEBUG 09/10/2016 14:20:35 : Send social sms is true for +381643876874
+DEBUG 09/10/2016 14:20:35 : Thanks for your review. Please copy your review: The best car dealer in SA And paste it on Google Plus link: http://bit.ly/gunnhonda-twitt
+DEBUG 09/10/2016 14:20:35 : Sent social SMS to +381643876874 Link: http://bit.ly/gunnhonda-twitt Text: The best car dealer in SA SID SM600da7351ba1429eb520065465aab776
+DEBUG 09/10/2016 14:20:58 : Prepare social SMS for +381643876874
+DEBUG 09/10/2016 14:20:58 : Text social review for +381643876874
+DEBUG 09/10/2016 14:20:58 : Send social sms is true for +381643876874
+DEBUG 09/10/2016 14:20:58 : Thanks for your review. Please copy your review: The best car dealer in SA And paste it on Google Plus link: http://bit.ly/gunnhonda-yelp
+DEBUG 09/10/2016 14:20:59 : Sent social SMS to +381643876874 Link: http://bit.ly/gunnhonda-yelp Text: The best car dealer in SA SID SM0c3c8945a11444c1986753d8514f59d5
+DEBUG 09/10/2016 14:22:33 : Sending notification message to +381643876874
+DEBUG 09/10/2016 14:22:33 : Sent sms to +381643876874 SID SMdb25e94c8e964e908c7624e7a2afa8e4
+DEBUG 09/10/2016 14:22:34 : Prepare SMS for +381643876874
+DEBUG 09/10/2016 14:22:34 : Send sms is true for +381643876874
+DEBUG 09/10/2016 14:22:34 : Sent SMS to +381643876874 Link: http://bit.ly/gunnhonda-G Text: http://1qreputation.com/audioDownload.php?name=522ff3cf-0827-4089-aa82-55e2c07b6be8.m4a.mp3 SID SM0020b06cc218496693c5c620aad1c8ee
+DEBUG 17/10/2016 07:34:59 : User id: 48762 submitted text review at 2016-10-17 07:34:59
+DEBUG 17/10/2016 07:34:59 : Sending written review for 4 stars - Location: 32
+DEBUG 17/10/2016 07:34:59 : Sending multiple notification message to +381643876874 | Message: Hello,
+Nick submitted new review.
+
+Rate 4 stars
+
+Phone: (643) 876-874
+
+Review:
+
+Great car dealer
+DEBUG 17/10/2016 07:35:00 : Sent sms to +381643876874 SID SM73fb07d7d07c4b2bba41898fc45de53d
+DEBUG 17/10/2016 07:35:03 : Sent review (for customer/patient) email to nikola.fh@gmail.com for stars 4 - Location Id: 32
+DEBUG 17/10/2016 07:35:03 : Sent review email to nick@dmsapiens.com for stars 4 - Location Id: 32
+DEBUG 17/10/2016 07:35:05 : Prepare SMS for (643) 876-874 Type of review: Great car dealer
+DEBUG 17/10/2016 07:35:05 : Send sms is true for (643) 876-874
+DEBUG 17/10/2016 07:35:05 : Sending single notification message to +381643876874 | Message: Thanks for your review.
+
+Please COPY your review:
+Great car dealer
+
+CLICK & PASTE below:
+http://bit.ly/gunnhonda-G
+DEBUG 17/10/2016 07:35:05 : Sent sms to +381643876874 SID SMacca2cb768de48979d851d9d68509915

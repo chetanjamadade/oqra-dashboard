@@ -1,0 +1,63 @@
+/*===================================
+=            Base Colors            =
+===================================*/
+
+$color-white:#fff;
+$color-black:#000;
+
+$color-blie:#437fc0;
+$color-heading:#354052;
+$color-subheading:#7f8fa4;
+
+$color-orange-dark:#e95422;
+$color-green:#17b195;
+$color-red:#cc0033;
+
+$ext-satisfied: #00aa8a;
+$very-satisfied: #28cdae;
+$satisfied: #ffd507;
+$disatisfied: #e81960;
+$very-disatisfied: #e50000;
+
+/*=====  End of Base Colors  ======*/
+
+/*=====================================
+=            Custom colors            =
+=====================================*/
+
+
+$palettes: (
+    gray: (
+        base:  rgb(61,61,61),
+        dark:  rgb(43,43,43)
+    ),
+    blue: (
+        base:  rgb(67,128,193),
+        dark:  rgb(20,33,53),
+        light: rgb(239,243,246)
+    ),
+
+);
+
+$opacity-bg: rgba(0,0,0,0.2);
+
+/*=====  End of Custom colors  ======*/
+
+/*====================================
+=            Font Weights            =
+====================================*/
+
+$bold: 700;
+$semi-bold: 600;
+$regular: 400;
+$thin: 300;
+
+/*=====  End of Font Weights  ======*/
+
+/*==================================
+=            Font Sizes            =
+==================================*/
+
+$base-size: 16px;
+
+/*=====  End of Font Sizes  ======*/

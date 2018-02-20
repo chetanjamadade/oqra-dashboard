@@ -1,0 +1,124 @@
+/*====================================
+=            Profile Menu            =
+====================================*/
+
+.active-menu {
+	opacity:1!important;
+	right:0px!important;
+}
+
+#profile-menu {
+	position: fixed;
+	@include animate-fade;
+	right:-310px;
+	width:310px;
+	height:100vh;
+	background:rgb(31,44,63);
+	top:0px;
+	z-index: 99999;
+	padding:30px;
+	overflow:hidden;
+	header {
+		text-align: center;
+		color:$color-white;
+		border-bottom:1px solid rgba(255,255,255,0.2);
+		margin-bottom: 30px;
+		.close-profile-menu {
+			display: block;
+			float: right;
+			width: 32px;
+			height: 32px;
+			color:$color-white;
+			background:#437fbf;
+			margin-top: -10px;
+			margin-bottom: 20px;
+			line-height: 32px;
+			i {
+				color:$color-white;
+			}
+			&:hover {
+				background:$color-orange-dark;
+			}
+		}
+		img {
+			margin:0px auto;
+			margin-bottom: 30px;
+		}
+		h5 {
+			font-size: 24px;
+		}
+		h6 {
+			font-size: 14px;
+			margin-top: 5px;
+		}
+		a.logout-btn {
+			height: 38px;
+			width: 170px;
+			margin:0px auto;
+			border-radius:6px;
+			line-height: 38px;
+			background:#427dbd;
+			color:$color-white;
+			text-align: center;
+			display: block;
+			margin-top: 30px;
+			margin-bottom: 30px;
+			font-size: 14px;
+			font-weight: $semi-bold;
+			i {
+				margin-left: 5px;
+			}
+			&:hover {
+				background:$color-orange-dark;
+			}
+		}
+	}
+	h3 {
+		text-transform: uppercase;
+		color:#aab5c5;
+		font-size: 14px;
+		font-weight: $semi-bold;
+		margin-bottom: 30px;
+	}
+	.profile-label {
+		font-size: 14px;
+		color:#aab5c5;
+		display: block;
+		margin-bottom: 5px;
+	}
+	.profile-value {
+		color:$color-white;
+		font-size: 13px;
+		text-transform: uppercase;
+		margin-bottom: 15px;
+		display: block;
+		a {
+			color:$color-white;
+		}
+	}
+	.edit-profile-btn {
+			height: 38px;
+			width: 170px;
+			margin:0px auto;
+			border-radius:6px;
+			line-height: 38px;
+			background:#19b131;
+			color:$color-white;
+			text-align: center;
+			display: block;
+			margin-top: 30px;
+			margin-bottom: 30px;
+			font-size: 14px;
+			font-weight: $semi-bold;
+			i {
+				margin-left: 5px;
+				position: relative;
+				left:10px;
+			}
+			&:hover {
+				background:#1bb934;
+			}		
+	}
+}
+
+/*=====  End of Profile Menu  ======*/
